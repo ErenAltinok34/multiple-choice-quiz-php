@@ -1,0 +1,4 @@
+C:\xampp\htdocs\ adresine dosyalar atılıp test edildi
+http://localhost/test-uygulamasi/index
+http://localhost/test-uygulamasi/sayfa.php
+kod 15 soruyu tamamladıktan sonra kaç doğru kaç yanlış var onu gösterir
